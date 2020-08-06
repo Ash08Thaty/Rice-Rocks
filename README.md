@@ -1,5 +1,5 @@
 # Rice-Rocks
-This GitHub repository contains my mini project for Rice University's Fundamentals of Computing specialization on Coursera. Rice Rocks is the final project of the 2nd course of the specialization : "Introduction to Interactive Programming in Python".  This two-part course introduces the basic elements of programming. Topics covered include: 
+This GitHub repository contains my mini project for Rice University's Fundamentals of Computing specialization on Coursera. Rice Rocks is the final project of the 2nd course of the specialization : "Introduction to Interactive Programming in Python". This course uses its own coding environment named "CodeSkulptor" based on python 2. This two-part course introduces the basic elements of programming. Topics covered include: 
 
   Statements, expressions, variables
   Functions, logic, conditionals
